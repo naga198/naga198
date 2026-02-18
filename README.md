@@ -2,7 +2,7 @@
 - 👀 I’m interested in java ,Python
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on java
-- 📫 How to reach me nagasaikiran198@gmail.com
+- 📫 How to reach me via my GitHub profile
 
 <!---
 naga198/naga198 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
